@@ -25,6 +25,11 @@ public class javaGit {
 		
 		int multiplicacion = 6 * 4;
 		System.out.print ("Multiplicación: + multiplicacion");
+		
+		System.out.println ();
+		
+		int division = 21 / 7;
+		System.out.print ("Division: + division");
 	}
 
 }
